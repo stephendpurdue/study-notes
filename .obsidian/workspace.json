@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7447d1320d17cbaa",
+        "id": "da7b24e967bf9e44",
         "type": "tabs",
         "children": [
           {
-            "id": "9f88162c64bd4d2d",
+            "id": "c1867d7656c8da17",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a43bf5a1cdef452a",
@@ -186,14 +185,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "9f88162c64bd4d2d",
+  "active": "c1867d7656c8da17",
   "lastOpenFiles": [
+    "Templates/Lecture Note Template.md",
+    "Lectures/Untitled.md",
+    "Lectures",
+    "Templates",
+    "Untitled.md",
     "Untitled.base",
-    "2026-04-15.md",
+    "Lecture Note Template 1.md",
+    "Homepage.md",
     "Home.md",
+    "CS/AI",
+    "CS",
+    "2026-04-15.md",
     "create a link.md",
     "Welcome.md",
     "2026-04-14.md"
