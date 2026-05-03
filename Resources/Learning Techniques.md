@@ -5,3 +5,7 @@ Worked Problem Sets: Khan Academy, Course Exercises.
 Implement from Scratch: First from memory, then with guides etc.
 Teach it: Feynman technique -> Blog Posts, LinkedIn updates etc.
 Build Real Projects: Build projects that get progressively bigger.
+
+
+
+![[Pasted image 20260503113341.png]]
