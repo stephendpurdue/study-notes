@@ -7,7 +7,7 @@ However a vector can be anything where vectors can be added or multiplied by a s
 
 The place of intersection is the origin, and this is the root of all vectors. It can be seen as coordinates on how to get from origin to a point on the grid.
 
-![[Pasted image 20260506125944.png]]
+![[Vector Example.png]]
 
 #### What is Vector multiplication, and what are Scalars?
 
