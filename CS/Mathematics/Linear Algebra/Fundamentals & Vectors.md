@@ -18,9 +18,6 @@ Vector multiplication refers to extending or shrining the vector, depending on t
 - Result: a new vector, either longer or shorter. 
 
 Most linear algebra topics revolve around vector addition, and scalar multiplication.
-
-
-
 ### Summary
 
 Vectors are an ordered list of numbers used to describe space, they can be added and multiplied (scalar multiplication), and are used in Physics, Mathematics, and Computer Science, more commonly in Machine Learning. 
