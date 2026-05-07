@@ -1,4 +1,6 @@
 
+[[Notetaking Guide]]
+
 Watch & Read: Lectures, Textbooks.
 Spaced Repetition: Daily Flashcards -> Anki.
 Worked Problem Sets: Khan Academy, Course Exercises.

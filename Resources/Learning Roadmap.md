@@ -1,6 +1,8 @@
 # Learning Roadmap — MSc AI Preparation
 *Linear Algebra onwards · Paired with Obsidian + Pomodoro*
 
+[[Learning Techniques]]
+
 ---
 
 ## Where You Are Now
