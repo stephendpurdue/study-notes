@@ -9,7 +9,7 @@ The place of intersection is the origin, and this is the root of all vectors. It
 
 ![[Vector Example.png]]
 
-#### What is Vector multiplication, and what are Scalars?
+#### What is vector multiplication, and what are scalars?
 
 Vector multiplication refers to extending or shrining the vector, depending on the input. eg: 'V * 1/3' would equal 1/3 the size of the original vector. 
 

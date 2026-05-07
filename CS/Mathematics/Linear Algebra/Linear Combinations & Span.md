@@ -1,5 +1,5 @@
 
-#### What is a basis Vector?
+#### What is a basis vector?
 
 There are two basis vectors in any coordinate system: **î**  &  **ĵ**
 
@@ -8,7 +8,7 @@ There are two basis vectors in any coordinate system: **î**  &  **ĵ**
 
 Vectors should be thought of as Scalars, these stretch and scale to a coordinate in space, and the outcome of this would be the sum of two scaled vectors.
 
-#### What is a Linear Combination?
+#### What is a linear combination?
 
 Any time two vectors are scaled and added, this is called the linear combination of two vectors. 
 
