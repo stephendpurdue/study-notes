@@ -1,4 +1,4 @@
-
+ 
 [[Notetaking Guide]]
 
 Watch & Read: Lectures, Textbooks.
