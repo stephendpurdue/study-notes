@@ -18,3 +18,7 @@ This will contain any important info derived from my time reading through the bo
 
 - A traceback is a record of where the interpreter found the error, and it gives an error message based on the type of error.
 
+#### Lists:
+
+- Lists are dynamic, meaning they can be added to and have values removed at any time.
+
