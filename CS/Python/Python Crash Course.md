@@ -21,4 +21,6 @@ This will contain any important info derived from my time reading through the bo
 #### Lists:
 
 - Lists are dynamic, meaning they can be added to and have values removed at any time.
+- Indentation is important in ensuring correct output.
+- If the code has correct syntax, but produces an undesired result, this is a 'logical' error.
 
