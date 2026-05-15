@@ -8,7 +8,6 @@ This will contain any important info derived from my time reading through the bo
 - Complex is better than complicated.
 - Readability is important.
 
-
 ##### Variables:
 
 - Can contain letters, underscores, or numbers, but can only start with a letter, else this will throw an error.
