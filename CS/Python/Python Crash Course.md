@@ -23,7 +23,9 @@ This will contain any important info derived from my time reading through the bo
 - Indentation is important in ensuring correct output.
 - If the code has correct syntax, but produces an undesired result, this is a 'logical' error.
 
-#### Conditional Tests:
+#### The if-elif-else chain:
+
+When using if functions, it is typical to use if, followed by elif, and then else, if more than two arguments are being used. Otherwise it would be if, else.
 
 
 
