@@ -28,4 +28,39 @@ This will contain any important info derived from my time reading through the bo
 When using if functions, it is typical to use if, followed by elif, and then else, if more than two arguments are being used. Otherwise it would be if, else.
 
 
+#### Flags:
+
+Flags can be used to enter and exit loops, and to collect information etc, and then exit the loop.
+
+An example would be: 
+
+```python
+
+vacation = {}
+
+  
+
+polling_active = True
+
+  
+
+while polling_active:
+
+    name = input("What is your name? ")
+
+    response = input("What country would you like to go on vacation to? ")
+
+  
+
+    vacation[name] = response
+
+  
+
+    repeat = input("Should another person respond? ")
+
+    if repeat == 'No':
+
+        polling_active = False
+```
+
 
