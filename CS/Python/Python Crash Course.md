@@ -68,4 +68,4 @@ while polling_active:
 
 Functions are a key part of programming in python, they allow for code to be organised by having information and tasks inside. They can be used to input and output information, and are a fundamental concept used in professional settings.
 
-Functions allow for code to be written, and then reused, eliminating the need to rewrite any existing code
+Functions allow for code to be written, and then reused, eliminating the need to rewrite any existing code.
