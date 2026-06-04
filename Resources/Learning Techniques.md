@@ -1,5 +1,5 @@
  
-[[Notetaking Guide]]
+[[resources/Notetaking Guide]]
 
 Watch & Read: Lectures, Textbooks.
 Spaced Repetition: Daily Flashcards -> Anki.
@@ -10,6 +10,6 @@ Build Real Projects: Build projects that get progressively bigger.
 
 
 
-![[Learning Map.png]]
+![[images/Learning Map.png]]
 
-![[Tiny Gains = Results.jpg]]
+![[images/Tiny Gains = Results.jpg]]
