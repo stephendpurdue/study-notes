@@ -1,5 +1,13 @@
 [
   "obsidian-git",
   "obsidian-excalidraw-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-style-settings",
+  "calendar",
+  "code-styler",
+  "file-explorer-note-count",
+  "obsidian-icon-folder",
+  "obsidian-kanban",
+  "obsidian-media-db-plugin",
+  "obsidian-minimal-settings"
 ]

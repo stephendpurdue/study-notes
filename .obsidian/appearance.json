@@ -1,1 +1,9 @@
-{}
+{
+  "enabledCssSnippets": [
+    "Monochrome Void Color Theme Obsidian"
+  ],
+  "interfaceFontFamily": "JetBrainsMono NF",
+  "textFontFamily": "JetBrainsMono NF",
+  "monospaceFontFamily": "JetBrainsMono NF",
+  "baseFontSize": 14
+}
