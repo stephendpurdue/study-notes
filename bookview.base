@@ -3,8 +3,7 @@ views:
     name: View
     filters:
       and:
-        - file.folder == "resources/books/Media DB/books"
+        - file.folder == "database"
     image: note.image
-    imageFit: contain
     imageAspectRatio: 1.35
-    cardSize: 280
+    cardSize: 310

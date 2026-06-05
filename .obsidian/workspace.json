@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "79f6ed25da6a58b6",
+        "id": "faec66006b96672b",
         "type": "tabs",
         "children": [
           {
-            "id": "80ce871dc97ad082",
+            "id": "e7cf21693c6be104",
             "type": "leaf",
             "state": {
               "type": "bases",
@@ -80,7 +80,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a18d7bd59839e12",
+            "id": "80ce871dc97ad082",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -99,8 +99,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/CS/DSA/Data Structure Fundamentals.md",
+                "file": "bookview.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Data Structure Fundamentals"
+              "title": "Outgoing links from bookview"
             }
           },
           {
@@ -201,12 +200,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,19 +218,31 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-media-db-plugin:Add new Media DB entry": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "bases:Create new base": false,
+      "graph:Open graph view": false,
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "80ce871dc97ad082",
+  "active": "e7cf21693c6be104",
   "lastOpenFiles": [
-    "resources/pdfs/pythoncrashcourse.pdf",
-    "resources/books/Media DB/books/Python Crash Course (2022).md",
+    "README.md",
+    "database/Mathematics for Machine Learning (2019).md",
     "bookview.base",
+    "database/Python Crash Course.md",
+    "resources/books/Media DB/books/Mathematics for Machine Learning (2019).md",
+    "resources/books/Media DB/books/Python Crash Course (2022).md",
+    "database/Python Programming Crash Course (2022).md",
+    "database/Untitled.md",
+    "resources/pdfs/pythoncrashcourse.pdf",
+    "resources/pdfs/Mathematics for Machine Learning.pdf",
+    "resources/books/Media DB/books/Untitled.md",
+    "resources/books/Media DB/books/Introduction to Statistical Learning (2021).md",
+    "resources/pdfs/Introduction to Statistical Learning.pdf",
+    "Media DB/books",
+    "Media DB",
+    "resources/books/Media DB/books/Introduction to Statistical Learning.md",
     "database",
     "resources/covers/pythoncrashcourse.jpg",
-    "README.md",
     "resources/books/pythoncrashcourse.md",
     "resources/books/Media DB/books/Machine learning (2016).md",
     "database/books/Untitled.md",
@@ -241,35 +251,23 @@
     "database/books/Learning Python.md",
     "database/books/Fluent Python (2015).md",
     "database/books",
-    "database",
     "[pythoncrashcourse.jpg.md",
     "Untitled.md",
     "resources/misc/The Cornell Method.md",
     "resources/misc/Learning Roadmap.md",
-    "resources/misc",
     "bookview.base.md",
     "resources/covers/Untitled.md",
-    "database/books",
-    "database",
     "Media DB/books/Python Programming Crash Course (2022).md",
     "resources/pdfs 1/pythoncrashcourse.md",
     "resources/pdfs 1/cpp-software-design.pdf.md",
     "Untitled Kanban.md",
-    "education/CS/python/Python Crash Course.md",
     "Untitled.canvas",
-    "education/CS/dsa/Data Structure Fundamentals.md",
-    "resources/misc/Notetaking Guide.md",
-    "resources/misc/Learning Techniques.md",
     "images/Vector Example.png",
     "images/Tiny Gains = Results.jpg",
     "images/Matrix Composition.png",
     "images/Linear Transformation example..png",
     "images/Learning Map.png",
     "images/3b1b - Linear Combinations.png",
-    "notes/cs 1/Mathematics/Linear Algebra/Matrix Composition.md",
-    "notes/cs 1/Mathematics/Linear Algebra/Transformations & Matrices.md",
-    "notes/cs 1/Mathematics/Linear Algebra/Linear Transformations.md",
-    "notes/cs 1/Mathematics/Linear Algebra/Linear Combinations & Span.md",
     "education/images/Tiny Gains = Results.jpg",
     "education/images/Matrix Composition.png",
     "education/images/Linear Transformation example..png"
