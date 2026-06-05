@@ -180,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/CS/DSA/Data Structure Fundamentals.md",
+                "file": "bookview.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Data Structure Fundamentals"
+              "title": "Outline of bookview"
             }
           },
           {
@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -223,7 +223,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e7cf21693c6be104",
+  "active": "e74bca47ae2ba8c7",
   "lastOpenFiles": [
     "README.md",
     "database/Mathematics for Machine Learning (2019).md",
