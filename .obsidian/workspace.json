@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/CS/DSA/Data Structure Fundamentals.md",
+                "file": "notes/CS/Python/Python Crash Course.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Structure Fundamentals"
+              "title": "Python Crash Course"
             }
           }
         ]
@@ -223,8 +223,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "267a896369ad8329",
+  "active": "8244bd7856c6451e",
   "lastOpenFiles": [
+    "notes/CS/DSA/Data Structure Fundamentals.md",
     "resources/The Cornell Method.md",
     "resources/Notetaking Guide.md",
     "resources/Learning Techniques.md",
@@ -266,7 +267,6 @@
     "projects",
     "notes/resources/Learning Techniques.md",
     "notes/resources/Learning Roadmap.md",
-    "notes/resources/Notetaking Guide.md",
     "notes/CS/Codecrafters Projects",
     "notes/images/Tiny Gains = Results.jpg",
     "notes/images/Matrix Composition.png",
