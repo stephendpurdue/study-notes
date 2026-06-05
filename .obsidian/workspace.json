@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "229aadf4fb6e3978",
+        "id": "79f6ed25da6a58b6",
         "type": "tabs",
         "children": [
           {
-            "id": "8244bd7856c6451e",
+            "id": "80ce871dc97ad082",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "notes/CS/Python/Python Crash Course.md",
-                "mode": "source",
-                "source": false
+                "file": "bookview.base",
+                "viewName": "View"
               },
-              "icon": "lucide-file",
-              "title": "Python Crash Course"
+              "icon": "lucide-layout-grid",
+              "title": "bookview"
             }
           }
         ]
@@ -206,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,57 +220,58 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-media-db-plugin:Add new Media DB entry": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "bases:Create new base": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "8244bd7856c6451e",
+  "active": "80ce871dc97ad082",
   "lastOpenFiles": [
-    "notes/CS/DSA/Data Structure Fundamentals.md",
-    "resources/The Cornell Method.md",
-    "resources/Notetaking Guide.md",
-    "resources/Learning Techniques.md",
-    "resources/Learning Roadmap.md",
-    "resources",
+    "resources/pdfs/pythoncrashcourse.pdf",
+    "resources/books/Media DB/books/Python Crash Course (2022).md",
+    "bookview.base",
+    "database",
+    "resources/covers/pythoncrashcourse.jpg",
     "README.md",
+    "resources/books/pythoncrashcourse.md",
+    "resources/books/Media DB/books/Machine learning (2016).md",
+    "database/books/Untitled.md",
+    "resources/books/Media DB/books",
+    "resources/books/Media DB",
+    "database/books/Learning Python.md",
+    "database/books/Fluent Python (2015).md",
+    "database/books",
+    "database",
+    "[pythoncrashcourse.jpg.md",
+    "Untitled.md",
+    "resources/misc/The Cornell Method.md",
+    "resources/misc/Learning Roadmap.md",
+    "resources/misc",
+    "bookview.base.md",
+    "resources/covers/Untitled.md",
+    "database/books",
+    "database",
+    "Media DB/books/Python Programming Crash Course (2022).md",
+    "resources/pdfs 1/pythoncrashcourse.md",
+    "resources/pdfs 1/cpp-software-design.pdf.md",
+    "Untitled Kanban.md",
+    "education/CS/python/Python Crash Course.md",
+    "Untitled.canvas",
+    "education/CS/dsa/Data Structure Fundamentals.md",
+    "resources/misc/Notetaking Guide.md",
+    "resources/misc/Learning Techniques.md",
     "images/Vector Example.png",
     "images/Tiny Gains = Results.jpg",
     "images/Matrix Composition.png",
     "images/Linear Transformation example..png",
     "images/Learning Map.png",
     "images/3b1b - Linear Combinations.png",
-    "images",
     "notes/cs 1/Mathematics/Linear Algebra/Matrix Composition.md",
     "notes/cs 1/Mathematics/Linear Algebra/Transformations & Matrices.md",
     "notes/cs 1/Mathematics/Linear Algebra/Linear Transformations.md",
     "notes/cs 1/Mathematics/Linear Algebra/Linear Combinations & Span.md",
-    "notes/cs 1/Mathematics/Linear Algebra/Fundamentals & Vectors.md",
-    "notes/cs 1/Python/Python Crash Course.md",
-    "notes/cs 1/Python/Object Oriented Programming.md",
-    "notes/cs 1/Mathematics/Linear Algebra",
-    "notes/cs 1/DSA/Data Structure Fundamentals.md",
-    "notes/cs 1/Codecrafters Projects/Claude Clone.md",
-    "notes/cs 1/Python",
-    "notes/cs 1/Mathematics",
-    "notes/cs 1/DSA",
-    "notes/cs 1/Codecrafters Projects",
-    "notes/cs 1",
-    "notes/CS/Codecrafters Projects/Claude Clone.md",
-    "notes/CS/Mathematics/Linear Algebra/Transformations & Matrices.md",
-    "notes/CS/Mathematics/Linear Algebra/Matrix Composition.md",
-    "notes/CS/Mathematics/Linear Algebra/Linear Combinations & Span.md",
-    "notes/CS/Mathematics/Linear Algebra/Linear Transformations.md",
-    "Untitled.canvas",
-    "notes/CS/Python/Object Oriented Programming.md",
-    "notes/CS/Python/Python Crash Course.md",
-    "templates/Untitled.md",
-    "Untitled Kanban.md",
-    "projects",
-    "notes/resources/Learning Techniques.md",
-    "notes/resources/Learning Roadmap.md",
-    "notes/CS/Codecrafters Projects",
-    "notes/images/Tiny Gains = Results.jpg",
-    "notes/images/Matrix Composition.png",
-    "notes/images/Linear Transformation example..png",
-    "notes/images/3b1b - Linear Combinations.png"
+    "education/images/Tiny Gains = Results.jpg",
+    "education/images/Matrix Composition.png",
+    "education/images/Linear Transformation example..png"
   ]
 }

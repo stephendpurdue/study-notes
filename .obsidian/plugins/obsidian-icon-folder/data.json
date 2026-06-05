@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiArchive",
-      "LiImage",
-      "LiPen",
-      "LiBookTemplate",
-      "LiStickyNote"
+      "LiBook",
+      "LiDatabase",
+      "LiGraduationCap",
+      "LiFolder",
+      "LiNewspaper"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,8 +35,12 @@
     "useInternalPlugins": false
   },
   "projects": "LiHammer",
-  "notes": "LiStickyNote",
   "templates": "LiBookTemplate",
-  "excalidraw": "LiPen",
-  "resources": "LiArchive"
+  "resources": "LiArchive",
+  "resources/books": "LiBookOpenText",
+  "resources/misc": "LiFolder",
+  "resources/pdfs": "LiNewspaper",
+  "education": "LiGraduationCap",
+  "database": "LiDatabase",
+  "bookview.base": "LiBook"
 }

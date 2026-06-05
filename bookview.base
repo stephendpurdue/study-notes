@@ -1,0 +1,10 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder == "resources/books/Media DB/books"
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1.35
+    cardSize: 280
