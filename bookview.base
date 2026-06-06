@@ -1,9 +1,12 @@
 views:
   - type: cards
-    name: View
+    name: Books
     filters:
       and:
         - file.folder == "database"
+    order:
+      - file.name
+      - year
     image: note.image
     imageAspectRatio: 1.35
     cardSize: 310
