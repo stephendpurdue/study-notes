@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "618ea7519a1ff138",
+        "id": "a5bfba3385853575",
         "type": "tabs",
         "children": [
           {
-            "id": "d76e7fddd0655dc5",
+            "id": "8cdb63e2113e294e",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -98,7 +98,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,22 +223,30 @@
       "graph:Open graph view": false
     }
   },
-  "active": "267a896369ad8329",
+  "active": "8cdb63e2113e294e",
   "lastOpenFiles": [
-    "education/cs/python/Classes.md",
+    "education/cs/python/Reading Files.md",
     "resources/pdfs/pythoncrashcourse.pdf",
-    "education/cs/python/Importing.md",
+    "education/cs/python/Exceptions.md",
     "database/Python Crash Course.md",
     "bookview.base",
-    "education/cs/python/Object Oriented Programming.md",
     "education/cs/python/Python Crash Course.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "dailynotes/2026-06-07.md",
+    "dailynotes",
+    "education/cs/python/Classes.md",
+    "education/cs/python/Importing.md",
+    "education/cs/python/Object Oriented Programming.md",
     "resources/misc/Notetaking Guide.md",
     "resources/misc/Learning Techniques.md",
     "resources/misc/The Cornell Method.md",
-    "resources/pdfs/Mathematics for Machine Learning.pdf",
+    "resources/pdfs/mathforml.pdf",
     "resources/misc/Learning Roadmap.md",
     "database/Mathematics for Machine Learning (2019).md",
-    "Untitled.canvas",
     "education/README.md",
     "templates/Lecture Note Template.md",
     "README.md",
@@ -255,12 +264,8 @@
     "resources/covers/pythoncrashcourse.jpg",
     "resources/books/pythoncrashcourse.md",
     "resources/books/Media DB/books/Machine learning (2016).md",
-    "database/books/Untitled.md",
     "resources/books/Media DB/books",
     "resources/books/Media DB",
-    "database/books/Learning Python.md",
-    "database/books/Fluent Python (2015).md",
-    "database/books",
     "images/Vector Example.png",
     "images/Tiny Gains = Results.jpg",
     "images/Matrix Composition.png",

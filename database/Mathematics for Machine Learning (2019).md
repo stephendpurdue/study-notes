@@ -5,7 +5,7 @@ title: Mathematics for Machine Learning
 englishTitle: Mathematics for Machine Learning
 year: 2019
 dataSource: OpenLibraryAPI
-url: "[[Mathematics for Machine Learning.pdf]]"
+url: "[[mathforml.pdf]]"
 id: /works/OL20914440W
 author:
   - Marc Peter Deisenroth
