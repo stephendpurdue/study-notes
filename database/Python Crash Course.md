@@ -11,7 +11,7 @@ author:
   - Eric Matthes
 plot: unknown
 pages: unknown
-image: https://covers.openlibrary.org/b/OLID/OL26494240M-L.jpg
+image: "[[PPC Cover.png]]"
 onlineRating: 0
 isbn: unknown
 isbn13: unknown

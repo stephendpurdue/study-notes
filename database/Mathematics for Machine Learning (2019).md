@@ -13,7 +13,7 @@ author:
   - Cheng Soon Ong
 plot: unknown
 pages: unknown
-image: https://covers.openlibrary.org/b/OLID/OL28332765M-L.jpg
+image: "[[MFML Cover.png]]"
 onlineRating: 0
 isbn: unknown
 isbn13: unknown

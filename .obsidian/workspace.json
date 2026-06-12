@@ -98,12 +98,12 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "a43bf5a1cdef452a",
@@ -223,13 +223,67 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8cdb63e2113e294e",
+  "floating": {
+    "id": "42e47531927ec787",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a3b5b5faedcd7b0f",
+        "type": "window",
+        "children": [
+          {
+            "id": "cf5d471725eeb117",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "27c7522013d6bd9f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "education/cs/python/Testing.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Testing"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1280,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "27c7522013d6bd9f",
   "lastOpenFiles": [
-    "education/cs/python/Reading Files.md",
     "resources/pdfs/pythoncrashcourse.pdf",
-    "education/cs/python/Exceptions.md",
+    "database/Introduction to Statistical Learning (2021).md",
     "database/Python Crash Course.md",
+    "database/Mathematics for Machine Learning (2019).md",
+    "education/cs/python/Testing.md",
     "bookview.base",
+    "resources/pdfs/mathforml.pdf",
+    "resources/covers/MFML Cover.png",
+    "resources/covers/PPC Cover.png",
+    "dailynotes/2026-06-12.md",
+    "education/cs/python/Reading Files.md",
+    "education/cs/python/Importing.md",
+    "resources/pdfs/ITSL.pdf",
+    "resources/covers/ISML Cover.png",
+    "resources/covers",
+    "database/Untitled.md",
+    "database/An Introduction to Statistical Learning (2013).md",
+    "database/Introduction to Statistical Learning.md",
+    "dailynotes/2026-06-08.md",
+    "education/cs/python/Exceptions.md",
     "education/cs/python/Python Crash Course.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
@@ -239,41 +293,26 @@
     "dailynotes/2026-06-07.md",
     "dailynotes",
     "education/cs/python/Classes.md",
-    "education/cs/python/Importing.md",
     "education/cs/python/Object Oriented Programming.md",
     "resources/misc/Notetaking Guide.md",
     "resources/misc/Learning Techniques.md",
     "resources/misc/The Cornell Method.md",
-    "resources/pdfs/mathforml.pdf",
     "resources/misc/Learning Roadmap.md",
-    "database/Mathematics for Machine Learning (2019).md",
     "education/README.md",
     "templates/Lecture Note Template.md",
     "README.md",
     "resources/books/Media DB/books/Mathematics for Machine Learning (2019).md",
     "resources/books/Media DB/books/Python Crash Course (2022).md",
-    "database/Python Programming Crash Course (2022).md",
-    "database/Untitled.md",
-    "resources/books/Media DB/books/Untitled.md",
-    "resources/books/Media DB/books/Introduction to Statistical Learning (2021).md",
     "resources/pdfs/Introduction to Statistical Learning.pdf",
     "Media DB/books",
     "Media DB",
-    "resources/books/Media DB/books/Introduction to Statistical Learning.md",
     "database",
     "resources/covers/pythoncrashcourse.jpg",
-    "resources/books/pythoncrashcourse.md",
-    "resources/books/Media DB/books/Machine learning (2016).md",
-    "resources/books/Media DB/books",
-    "resources/books/Media DB",
     "images/Vector Example.png",
     "images/Tiny Gains = Results.jpg",
     "images/Matrix Composition.png",
     "images/Linear Transformation example..png",
     "images/Learning Map.png",
-    "images/3b1b - Linear Combinations.png",
-    "education/images/Tiny Gains = Results.jpg",
-    "education/images/Matrix Composition.png",
-    "education/images/Linear Transformation example..png"
+    "images/3b1b - Linear Combinations.png"
   ]
 }
