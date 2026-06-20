@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCode",
+      "LiClock",
       "LiNotebook",
       "LiBook",
-      "LiDatabase",
-      "LiGraduationCap",
-      "LiFolder"
+      "LiDatabase"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,7 @@
   "education": "LiGraduationCap",
   "database": "LiDatabase",
   "bookview.base": "LiBook",
-  "dailynotes": "LiNotebook"
+  "dailynotes": "LiNotebook",
+  "timeschedule.md": "LiClock",
+  "leetcodenotes.md": "LiCode"
 }
