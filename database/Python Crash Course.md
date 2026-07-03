@@ -16,7 +16,7 @@ onlineRating: 0
 isbn: unknown
 isbn13: unknown
 released: true
-read: false
+read: true
 lastRead: ""
 personalRating: 0
 tags: mediaDB/book
