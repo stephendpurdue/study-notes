@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "education/cs/python/Python Crash Course.md",
+                "file": "education/cs/os/Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python Crash Course"
+              "title": "Fundamentals"
             }
           }
         ]
@@ -227,55 +227,20 @@
       "graph:Open graph view": false
     }
   },
-  "floating": {
-    "id": "1a82feba7beea964",
-    "type": "floating",
-    "children": [
-      {
-        "id": "15e3bf9358b7a25f",
-        "type": "window",
-        "children": [
-          {
-            "id": "aa16cfa3e0b2836d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7135b1faa425e21b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "education/cs/python/Matplotlib.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Matplotlib"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1280,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "7135b1faa425e21b",
+  "active": "8e4c4280540d8871",
   "lastOpenFiles": [
-    "education/cs/python/Python Crash Course.md",
-    "education/cs/python/Matplotlib.md",
-    "education/cs/python/Object Oriented Programming.md",
     "resources/pdfs/pythoncrashcourse.pdf",
-    "timeschedule.md",
+    "education/cs/os/Fundamentals.md",
+    "education/cs/python/Reading Files.md",
+    "education/cs/python/Testing.md",
+    "education/cs/dsa/Data Structure Fundamentals.md",
     "bookview.base",
-    "dailynotes/2026-07-02.md",
+    "timeschedule.md",
     "leetcodenotes.md",
+    "education/cs/python/Matplotlib.md",
+    "education/cs/python/Python Crash Course.md",
+    "education/cs/python/Object Oriented Programming.md",
+    "dailynotes/2026-07-02.md",
     "database/Python Crash Course.md",
     "resources/pdfs/Foundations of Machine Learning.pdf",
     "database/Foundations of Machine Learning Second Edition (2018).md",
@@ -296,18 +261,13 @@
     "database/Mathematics for Machine Learning (2019).md",
     "Untitled",
     "dailynotes/2026-06-12.md",
-    "education/cs/python/Testing.md",
     "resources/pdfs/mathforml.pdf",
     "resources/covers/MFML Cover.png",
     "resources/covers/PPC Cover.png",
-    "education/cs/python/Reading Files.md",
     "education/cs/python/Importing.md",
     "resources/covers/ISML Cover.png",
     "resources/covers",
     "database/An Introduction to Statistical Learning (2013).md",
-    "database/Introduction to Statistical Learning.md",
-    "dailynotes/2026-06-08.md",
-    "education/cs/python/Exceptions.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 4.canvas",
