@@ -1,5 +1,5 @@
 07:00-09:00 -> Coffee, Gym, Cleaning
-10:00-12:00 -> Deep work block (Python, Anki)
+10:00-12:00 -> Deep work block (Python, Books)
 12:00-12:45 -> Lunch
 12:45-15:00 -> Deep work block (Reading, Anki)
 16:00-18:00 -> Review, Admin, Checking CV & LinkedIn
@@ -13,7 +13,7 @@ August 2026 -> OSTEP & Fluent Python.
 
 September 2026 -> MSc starts, ML & DL work.
 
-October 2026 -> Neetcode ramps up.
+October 2026 -> Neetcode ramps up, learn AWS.
 
 November 2026 -> DDIA & Design Patterns.
 

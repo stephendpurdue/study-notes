@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "education/cs/os/Fundamentals.md",
+                "file": "timeschedule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fundamentals"
+              "title": "timeschedule"
             }
           }
         ]
@@ -230,18 +230,18 @@
   "active": "8e4c4280540d8871",
   "lastOpenFiles": [
     "resources/pdfs/pythoncrashcourse.pdf",
+    "database/Python Crash Course.md",
+    "bookview.base",
+    "leetcodenotes.md",
+    "timeschedule.md",
     "education/cs/os/Fundamentals.md",
     "education/cs/python/Reading Files.md",
     "education/cs/python/Testing.md",
     "education/cs/dsa/Data Structure Fundamentals.md",
-    "bookview.base",
-    "timeschedule.md",
-    "leetcodenotes.md",
     "education/cs/python/Matplotlib.md",
     "education/cs/python/Python Crash Course.md",
     "education/cs/python/Object Oriented Programming.md",
     "dailynotes/2026-07-02.md",
-    "database/Python Crash Course.md",
     "resources/pdfs/Foundations of Machine Learning.pdf",
     "database/Foundations of Machine Learning Second Edition (2018).md",
     "education/cs/os",
