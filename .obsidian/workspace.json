@@ -11,14 +11,12 @@
             "id": "8e4c4280540d8871",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "timeschedule.md",
-                "mode": "source",
-                "source": false
+                "file": "resources/pdfs/pythoncrashcourse.pdf"
               },
-              "icon": "lucide-file",
-              "title": "timeschedule"
+              "icon": "lucide-file-text",
+              "title": "pythoncrashcourse"
             }
           }
         ]
@@ -107,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "a43bf5a1cdef452a",
@@ -229,11 +228,11 @@
   },
   "active": "8e4c4280540d8871",
   "lastOpenFiles": [
-    "resources/pdfs/pythoncrashcourse.pdf",
     "database/Python Crash Course.md",
     "bookview.base",
-    "leetcodenotes.md",
+    "resources/pdfs/pythoncrashcourse.pdf",
     "timeschedule.md",
+    "leetcodenotes.md",
     "education/cs/os/Fundamentals.md",
     "education/cs/python/Reading Files.md",
     "education/cs/python/Testing.md",
