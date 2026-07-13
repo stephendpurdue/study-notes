@@ -22,3 +22,12 @@ December 2026 -> Term 1 ends. Finish course work. 1x Project.
 #### Notes
 
 - Aim for 25 pages per day of OSTEP.
+
+
+#### Employability list
+
+CS Fundamentals (Operating Systems, Design Patterns, Networking)
+Python
+AWS -> Cloud and Machine Learning?
+CI/CD
+DSA

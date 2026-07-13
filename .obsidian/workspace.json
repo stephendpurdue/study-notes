@@ -11,12 +11,14 @@
             "id": "8e4c4280540d8871",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "resources/pdfs/pythoncrashcourse.pdf"
+                "file": "education/cs/os/Fundamentals.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "pythoncrashcourse"
+              "icon": "lucide-file",
+              "title": "Fundamentals"
             }
           }
         ]
@@ -105,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "a43bf5a1cdef452a",
@@ -228,15 +229,18 @@
   },
   "active": "8e4c4280540d8871",
   "lastOpenFiles": [
+    "education/cs/python/List Comprehension.md",
+    "universityinfo.md",
+    "timeschedule.md",
+    "resources/pdfs/pythoncrashcourse.pdf",
     "database/Python Crash Course.md",
     "bookview.base",
-    "resources/pdfs/pythoncrashcourse.pdf",
-    "timeschedule.md",
     "leetcodenotes.md",
+    "jobskillchecklist.md",
+    "education/cs/dsa/Data Structure Fundamentals.md",
     "education/cs/os/Fundamentals.md",
     "education/cs/python/Reading Files.md",
     "education/cs/python/Testing.md",
-    "education/cs/dsa/Data Structure Fundamentals.md",
     "education/cs/python/Matplotlib.md",
     "education/cs/python/Python Crash Course.md",
     "education/cs/python/Object Oriented Programming.md",
@@ -263,10 +267,8 @@
     "resources/pdfs/mathforml.pdf",
     "resources/covers/MFML Cover.png",
     "resources/covers/PPC Cover.png",
-    "education/cs/python/Importing.md",
     "resources/covers/ISML Cover.png",
     "resources/covers",
-    "database/An Introduction to Statistical Learning (2013).md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 4.canvas",
