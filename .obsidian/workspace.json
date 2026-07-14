@@ -8,33 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f20593739a283b05",
+            "id": "6116c0af5fd42f16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "education/cs/python/Importing.md",
+                "file": "education/cs/os/Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Importing"
-            }
-          },
-          {
-            "id": "6116c0af5fd42f16",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "resources/pdfs/pythoncrashcourse.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "pythoncrashcourse"
+              "title": "Fundamentals"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "a43bf5a1cdef452a",
@@ -243,14 +229,16 @@
   },
   "active": "6116c0af5fd42f16",
   "lastOpenFiles": [
-    "timeschedule.md",
-    "universityinfo.md",
+    "bookview.base",
+    "resources/pdfs/Foundations of Machine Learning.pdf",
+    "database/Foundations of Machine Learning Second Edition (2018).md",
     "resources/pdfs/pythoncrashcourse.pdf",
     "education/cs/python/Importing.md",
+    "timeschedule.md",
+    "universityinfo.md",
     "education/cs/python/APIs.md",
     "education/cs/python/CSV Files.md",
     "database/Python Crash Course.md",
-    "bookview.base",
     "education/cs/os/Fundamentals.md",
     "education/cs/python/List Comprehension.md",
     "leetcodenotes.md",
@@ -262,8 +250,6 @@
     "education/cs/python/Python Crash Course.md",
     "education/cs/python/Object Oriented Programming.md",
     "dailynotes/2026-07-02.md",
-    "resources/pdfs/Foundations of Machine Learning.pdf",
-    "database/Foundations of Machine Learning Second Edition (2018).md",
     "education/cs/os",
     "resources/pdfs/progit.pdf",
     "database/Pro Git.md",
