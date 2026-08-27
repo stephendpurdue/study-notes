@@ -9,11 +9,11 @@
 
 July 2026 -> Finish PCC, start OSTEP.
 
-August 2026 -> OSTEP & Fluent Python.
+August & September 2026 -> OSTEP & Math Fundamentals.
 
-September 2026 -> MSc starts, ML & DL work.
+September 2026 -> MSc starts
 
-October 2026 -> Neetcode ramps up, learn AWS.
+October 2026 -> getcracked.io starts, learn AWS.
 
 November 2026 -> DDIA & Design Patterns.
 
@@ -21,13 +21,14 @@ December 2026 -> Term 1 ends. Finish course work. 1x Project.
 
 #### Notes
 
-- Aim for 25 pages per day of OSTEP.
+- Aim for 10 pages per day of OSTEP.
 
 
 #### Employability list
 
 CS Fundamentals (Operating Systems, Design Patterns, Networking)
-Python
-AWS -> Cloud and Machine Learning?
-CI/CD
-DSA
+Python, C++ 
+AWS -> Solutions Architect, and Machine Learning?
+CI/CD, Git
+DSA (For Interviews)
+
