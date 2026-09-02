@@ -20,4 +20,36 @@ class Solution:
         return ans
 
 ```
+#### 458. Max Consecutive Ones
 
+We set two values as 0 (res and cnt), then looped through the array, incremented the count if it was a consecutive, if not, the count was set to zero. res was set to the max of (cnt and res) to avoid rechecking the array.
+
+```
+class Solution:
+    def findMaxConsecutiveOnes(self, nums: List[int]) -> int:
+        res = cnt = 0
+
+        for num in nums:
+            cnt = cnt + 1 if num else 0
+            res = max(cnt, res)
+        return res
+```
+
+#### 217. Contains Duplicate
+
+We created a HashMap, and then looped through the nums array, if the number was already in the map, we returned true, else, we added it to the HashMap. If it wasn't a duplicate, we returned false.
+
+This is because each number was assigned a key value pair, upon looping through the nums array, if it was a duplicate, the value was increased by one.
+
+```
+class Solution:
+    def containsDuplicate(self, nums: List[int]) -> bool:
+        seen = set()
+
+        for i in nums:
+            if i in seen:
+                return True
+            else:
+                seen.add(i)
+        return False
+```

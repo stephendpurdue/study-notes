@@ -44,7 +44,7 @@
   "database": "LiDatabase",
   "bookview.base": "LiBook",
   "dailynotes": "LiNotebook",
-  "timeschedule.md": "LiClock",
   "leetcodenotes.md": "LiCode",
-  "universityinfo.md": "LiUniversity"
+  "universityinfo.md": "LiUniversity",
+  "scheduling & uni.md": "LiClock"
 }

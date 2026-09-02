@@ -21,5 +21,5 @@ lastRead: ""
 personalRating: 0
 tags: mediaDB/book
 link: "[[bookview.base]]"
-Completed: 2026-08-25
+Completed: 2026-08-31
 ---
