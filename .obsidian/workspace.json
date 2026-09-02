@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leetcodenotes.md",
+                "file": "leetcodereview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "leetcodenotes"
+              "title": "leetcodereview"
             }
           }
         ]
@@ -230,13 +230,14 @@
   },
   "active": "ca5635312da09a6d",
   "lastOpenFiles": [
+    "leetcodenotes.md",
+    "leetcodereview.md",
     "scheduling & uni.md",
     "education/cs/dsa/Hash Sets & Maps.md",
     "education/cs/dsa/Time Complexity.md",
     "education/cs/dsa/Data Structure Fundamentals.md",
     "universityinfo.md",
     "bookview.base",
-    "leetcodenotes.md",
     "resources/pdfs/handsonsoftwareengineeringwithpython.pdf",
     "database/Python Object-Oriented Programming (2021).md",
     "database/Python Crash Course.md",
