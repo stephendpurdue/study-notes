@@ -11,10 +11,14 @@
             "id": "86107c38e5af500b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "scheduling & uni.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "scheduling & uni"
             }
           }
         ]
@@ -224,11 +228,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "267a896369ad8329",
+  "active": "86107c38e5af500b",
   "lastOpenFiles": [
+    "leetcodereview.md",
+    "education/cs/mathematics/pdfs/linear_algebra.pdf",
     "education/cs/mathematics/pdfs/probability.pdf",
     "education/cs/mathematics/pdfs/set_theory.pdf",
-    "education/cs/mathematics/pdfs/linear_algebra.pdf",
     "scheduling & uni.md",
     "education/cs/mathematics/pdfs",
     "leetcodenotes.md",
@@ -236,7 +241,6 @@
     "database/Mathematics for Machine Learning (2019).md",
     "bookview.base",
     "universityinfo.md",
-    "leetcodereview.md",
     "education/cs/dsa/Hash Sets & Maps.md",
     "education/cs/dsa/Time Complexity.md",
     "education/cs/dsa/Data Structure Fundamentals.md",
