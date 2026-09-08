@@ -1,6 +1,6 @@
 #### Timeplan (Pre-MSc)
 
-06:30-08:30 -> Gym, Breakfast, Reading
+06:30-08:30 -> Breakfast, Reading, Gym
 10:00-12:00 -> Work block 1
 12:00-12:45 -> Break
 12:45-15:00 -> Work block 2
@@ -9,9 +9,8 @@
 
 #### Before MSc starts:
 
-- Complete The Missing Semester - Incomplete - 1/9
-- Mathematics for Machine Learning - Incomplete
-- Introduction to Algorithms, MiT OpenCourseware - Incomplete
+- Complete The Missing Semester - Incomplete - 3/9
+- Mathematics Pre-Sessions 
 - One Neetcode problem per day
 
 #### During MSc: 

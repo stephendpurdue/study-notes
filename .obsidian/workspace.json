@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "13d51989f1a88ee7",
+        "id": "a142b59b3df1b03b",
         "type": "tabs",
         "children": [
           {
-            "id": "ca5635312da09a6d",
+            "id": "86107c38e5af500b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "leetcodereview.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "leetcodereview"
+              "title": "New tab"
             }
           }
         ]
@@ -228,16 +224,22 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ca5635312da09a6d",
+  "active": "267a896369ad8329",
   "lastOpenFiles": [
-    "leetcodenotes.md",
-    "leetcodereview.md",
+    "education/cs/mathematics/pdfs/probability.pdf",
+    "education/cs/mathematics/pdfs/set_theory.pdf",
+    "education/cs/mathematics/pdfs/linear_algebra.pdf",
     "scheduling & uni.md",
+    "education/cs/mathematics/pdfs",
+    "leetcodenotes.md",
+    "resources/pdfs/mathforml.pdf",
+    "database/Mathematics for Machine Learning (2019).md",
+    "bookview.base",
+    "universityinfo.md",
+    "leetcodereview.md",
     "education/cs/dsa/Hash Sets & Maps.md",
     "education/cs/dsa/Time Complexity.md",
     "education/cs/dsa/Data Structure Fundamentals.md",
-    "universityinfo.md",
-    "bookview.base",
     "resources/pdfs/handsonsoftwareengineeringwithpython.pdf",
     "database/Python Object-Oriented Programming (2021).md",
     "database/Python Crash Course.md",
@@ -248,21 +250,15 @@
     "resources/pdfs/hands-ondatastructuresandalgorithmswithpython_thirdedition.pdf",
     "database/Hands-On Data Structures and Algorithms with Python (2018).md",
     "resources/covers/handsondsapython.png",
-    "resources/pdfs/mathforml.pdf",
     "resources/2026-08-23 OSTEP.md",
-    "database/Mathematics for Machine Learning (2019).md",
     "education/cs/os/Fundamentals.md",
-    "resources/pdfs/Foundations of Machine Learning.pdf",
     "database/Foundations of Machine Learning Second Edition (2018).md",
     "resources/covers/PPC Cover.png",
-    "resources/pdfs/generativeaifoundationsinpython.pdf",
     "database/Generative AI Foundations in Python (2024).md",
-    "resources/pdfs/cleanarchitecturewithpython.pdf",
     "database/Clean Architecture with Python.md",
     "education/cs/python/Python Crash Course.md",
     "database/Asynchronous Programming in Python.md",
     "resources/covers/asynchpythoncover.png",
-    "resources/pdfs/asynchronousprogramminginpython.pdf",
     "resources/covers/cleanarchitecturewithpythoncover.png",
     "database/Clean Code in Python (2018).md",
     "resources/covers/generativeaifoundationscover.png",
@@ -272,7 +268,6 @@
     "dailynotes/2026-07-14.md",
     "education/cs/python/Importing.md",
     "education/cs/python/APIs.md",
-    "education/cs/python/CSV Files.md",
     "resources/covers/ProGit.png",
     "resources/covers/FOML.png",
     "resources/covers/MFML Cover.png",
