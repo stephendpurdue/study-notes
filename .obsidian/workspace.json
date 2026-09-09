@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "education/cs/mathematics/set theory/Defining Sets and Set Equality.md",
+                "file": "education/cs/cloud/aws cloud practitioner/Module 1 - Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Defining Sets and Set Equality"
+              "title": "Module 1 - Introduction"
             }
           }
         ]
@@ -109,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "a43bf5a1cdef452a",
@@ -231,9 +230,14 @@
   },
   "active": "86107c38e5af500b",
   "lastOpenFiles": [
-    "Pasted image 20260909083644.png",
+    "education/README.md",
+    "education/cs/cloud/aws cloud practitioner/Module 1 - Introduction.md",
+    "education/cs/cloud/aws cloud practitioner",
+    "education/cs/cloud",
     "scheduling & uni.md",
+    "resources/2026-08-23 OSTEP.md",
     "education/cs/mathematics/set theory/Defining Sets and Set Equality.md",
+    "resources/misc/Pasted image 20260909083644.png",
     "education/cs/mathematics/set theory",
     "leetcodereview.md",
     "education/cs/mathematics/pdfs/linear_algebra.pdf",
@@ -251,13 +255,10 @@
     "resources/pdfs/handsonsoftwareengineeringwithpython.pdf",
     "database/Python Object-Oriented Programming (2021).md",
     "database/Python Crash Course.md",
-    "resources/pdfs/pythoncrashcourse.pdf",
     "database/Hands-On Software Engineering with Python (2018).md",
-    "resources/pdfs/ITSL.pdf",
     "database/Introduction to Statistical Learning (2021).md",
     "database/Hands-On Data Structures and Algorithms with Python (2018).md",
     "resources/covers/handsondsapython.png",
-    "resources/2026-08-23 OSTEP.md",
     "education/cs/os/Fundamentals.md",
     "database/Foundations of Machine Learning Second Edition (2018).md",
     "resources/covers/PPC Cover.png",
@@ -273,11 +274,9 @@
     "database/Untitled.md",
     "Untitled.canvas",
     "dailynotes/2026-07-14.md",
-    "education/cs/python/Importing.md",
     "resources/covers/ProGit.png",
     "resources/covers/FOML.png",
     "resources/covers/MFML Cover.png",
-    "resources/covers/ISML Cover.png",
     "Untitled 1.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
