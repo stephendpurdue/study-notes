@@ -10,7 +10,7 @@
 #### Before MSc starts:
 
 - Complete The Missing Semester - Incomplete - 3/9
-- Mathematics Pre-Sessions 
+- Mathematics Pre-Sessions 1/3
 - One Neetcode problem per day
 
 #### During MSc: 
@@ -22,7 +22,7 @@
 
 CS Fundamentals (Operating Systems, Design Patterns, Networking)
 Python, C++ 
-AWS -> Solutions Architect, and Machine Learning?
+AWS -> Cloud Practitioner, Solutions Architect
 CI/CD, Git
 DSA (For Interviews)
 

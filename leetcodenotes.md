@@ -53,3 +53,23 @@ class Solution:
                 seen.add(i)
         return False
 ```
+
+#### 128. Longest Consecutive Sequence
+
+Created a HashSet, and a variable longest as 0. Looped through the set and checked if n - 1 was not in the set, then set the length as 1. Used a while loop for n + length in the set, then incrementing length by 1. New variable longest created and set as the max of length, longest. Then returning longest.
+
+```
+class Solution:
+
+    def longestConsecutive(self, nums: List[int]) -> int:
+        numSet = set(nums)
+        longest = 0
+
+        for n in nums:
+            if (n - 1) not in numSet:
+                length = 0
+                while (n + length) in numSet:
+                    length += 1
+                longest = max(length, longest)
+        return longest
+```
