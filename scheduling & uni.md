@@ -1,11 +1,3 @@
-#### Timeplan (Pre-MSc)
-
-06:30-08:30 -> Breakfast, Reading, Gym
-10:00-12:00 -> Work block 1
-12:00-12:45 -> Break
-12:45-15:00 -> Work block 2
-15:00-15:30 -> Break
-15:30-17:30 -> Work block 3
 
 #### Before MSc starts:
 
@@ -17,6 +9,7 @@
 
 - Learn AWS
 - Learn System Design
+- One Leetcode per day
 
 #### Employability list
 

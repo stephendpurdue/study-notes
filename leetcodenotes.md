@@ -73,3 +73,10 @@ class Solution:
                 longest = max(length, longest)
         return longest
 ```
+
+
+#### 11. Container With Most Water
+
+Created two pointers, initialised a new value 'res' as 0.
+Started the pointers, set the area as the minimum calculation (height of L and height of R) * (R - 1). Set the new value 'res' as the max of the area.
+Then checked if the pointers were close, if not, moved them. Returned res.
