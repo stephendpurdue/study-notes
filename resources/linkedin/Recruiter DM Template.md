@@ -1,0 +1,2 @@
+
+Hi Andrew - I saw this opening on the Google site and am super interested, I noticed you posted about a similar role. I have X,Y, and Z skills and live in the area. I have the clearance required and have done _____. I would love to be considered for this role!

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "education/cs/cloud/aws cloud practitioner/Module 2 - Compute In The Cloud.md",
+                "file": "education/cs/system design/Load Balancing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module 2 - Compute In The Cloud"
+              "title": "Load Balancing"
             }
           }
         ]
@@ -230,21 +230,25 @@
   },
   "active": "00c85a68a9f29a67",
   "lastOpenFiles": [
+    "education/cs/system design/Scalability.md",
+    "education/cs/system design/Load Balancing.md",
+    "resources/linkedin/Recruiter DM Template.md",
+    "universityinfo.md",
+    "resources/linkedin",
     "scheduling & uni.md",
-    "education/cs/cloud/aws cloud practitioner/Module 2 - Compute In The Cloud.md",
     "leetcodereview.md",
+    "education/cs/mathematics/linear algebra/Transformations & Matrices.md",
+    "education/cs/mathematics/linear algebra/Matrix Composition.md",
+    "education/cs/cloud/aws cloud practitioner/Module 2 - Compute In The Cloud.md",
     "leetcodenotes.md",
     "bookview.base",
-    "education/cs/system design/Scalability.md",
     "resources/pdfs/mathforml.pdf",
     "database/Mathematics for Machine Learning (2019).md",
-    "education/cs/mathematics/linear algebra/Transformations & Matrices.md",
     "education/cs/mathematics/linear algebra/Linear Transformations.md",
     "education/cs/mathematics/linear algebra/Fundamentals & Vectors.md",
     "education/cs/cloud/aws cloud practitioner/Module 1 - Introduction.md",
     "resources/misc/AWS Shared Responsibility Model.png",
     "education/cs/system design",
-    "universityinfo.md",
     "resources/pdfs/pythonobject-orientedprogrammingfifthedition.pdf",
     "resources/pdfs/handsonsoftwareengineeringwithpython.pdf",
     "database/Python Object-Oriented Programming (2021).md",
@@ -257,7 +261,6 @@
     "education/cs/mathematics/set theory/Defining Sets and Set Equality.md",
     "resources/misc/Pasted image 20260909083644.png",
     "education/cs/mathematics/set theory",
-    "education/cs/mathematics/pdfs/linear_algebra.pdf",
     "education/cs/dsa/Hash Sets & Maps.md",
     "education/cs/dsa/Time Complexity.md",
     "education/cs/dsa/Data Structure Fundamentals.md",
@@ -266,10 +269,7 @@
     "database/Introduction to Statistical Learning (2021).md",
     "database/Hands-On Data Structures and Algorithms with Python (2018).md",
     "resources/covers/handsondsapython.png",
-    "education/cs/os/Fundamentals.md",
-    "database/Foundations of Machine Learning Second Edition (2018).md",
     "resources/covers/PPC Cover.png",
-    "database/Generative AI Foundations in Python (2024).md",
     "resources/covers/asynchpythoncover.png",
     "resources/covers/cleanarchitecturewithpythoncover.png",
     "resources/covers/generativeaifoundationscover.png",
