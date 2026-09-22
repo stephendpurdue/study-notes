@@ -77,6 +77,7 @@ class Solution:
 
 #### 11. Container With Most Water
 
-Created two pointers, initialised a new value 'res' as 0.
-Started the pointers, set the area as the minimum calculation (height of L and height of R) * (R - 1). Set the new value 'res' as the max of the area.
-Then checked if the pointers were close, if not, moved them. Returned res.
+
+Initialized a result variable as 0, and Two Pointers to start, with L starting at 0 and R at the end. then looped through while the left pointer was less than the right one, the area was: area = (r - l) * min(heights[l], heights[r]), then set the result as the maximum value between the current result and the area. Moved the pointers by one if the heights were less than each other. Returned the result.
+
+```
