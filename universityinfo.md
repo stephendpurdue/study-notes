@@ -5,7 +5,7 @@ Core:
 
 - Data Analysis
 - Artificial Intelligence Principles
-- Intelligent Systems
+- Autonomous Intelligent Systems
 - Ethics in AI
 - Final Project
 

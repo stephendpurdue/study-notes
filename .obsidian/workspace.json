@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "education/cs/mathematics/probability/Fundamentals of Probability.md",
+                "file": "education/cs/system design/Caching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fundamentals of Probability"
+              "title": "Caching"
             }
           }
         ]
@@ -230,16 +230,17 @@
   },
   "active": "00c85a68a9f29a67",
   "lastOpenFiles": [
-    "leetcodereview.md",
     "leetcodenotes.md",
+    "education/cs/system design/Caching.md",
+    "leetcodereview.md",
+    "todolist.md",
+    "scheduling & uni.md",
+    "universityinfo.md",
+    "education/cs/mathematics/probability/Fundamentals of Probability.md",
     "bookview.base",
     "education/cs/mathematics/set theory/Defining Sets and Set Equality.md",
-    "education/cs/mathematics/probability/Fundamentals of Probability.md",
     "resources/misc/Probability Example 1.png",
-    "scheduling & uni.md",
     "education/cs/mathematics/probability",
-    "universityinfo.md",
-    "todolist.md",
     "education/cs/system design/Load Balancing.md",
     "education/cs/system design/Scalability.md",
     "resources/linkedin/Recruiter DM Template.md",
