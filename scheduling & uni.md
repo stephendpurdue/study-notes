@@ -1,10 +1,4 @@
 
-#### Before MSc starts:
-
-- Complete The Missing Semester - Incomplete - 3/9
-- Mathematics Pre-Sessions 1/3
-- One Neetcode problem per day
-
 #### During MSc: 
 
 - Learn AWS

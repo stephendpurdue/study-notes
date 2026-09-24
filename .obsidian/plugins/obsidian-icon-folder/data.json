@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBookOpenText",
       "LiListTodo",
       "LiUniversity",
       "LiCode",
-      "LiClock",
-      "LiNotebook"
+      "LiClock"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -45,8 +45,8 @@
   "bookview.base": "LiBook",
   "dailynotes": "LiNotebook",
   "leetcodenotes.md": "LiCode",
-  "universityinfo.md": "LiUniversity",
   "scheduling & uni.md": "LiClock",
   "leetcodereview.md": "LiCode",
-  "todolist.md": "LiListTodo"
+  "todolist.md": "LiListTodo",
+  "readinglist.md": "LiBookOpenText"
 }

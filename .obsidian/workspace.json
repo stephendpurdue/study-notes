@@ -11,14 +11,13 @@
             "id": "00c85a68a9f29a67",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "education/cs/system design/Caching.md",
-                "mode": "source",
-                "source": false
+                "file": "bookview.base",
+                "viewName": "Books"
               },
-              "icon": "lucide-file",
-              "title": "Caching"
+              "icon": "lucide-layout-grid",
+              "title": "bookview"
             }
           }
         ]
@@ -230,12 +229,13 @@
   },
   "active": "00c85a68a9f29a67",
   "lastOpenFiles": [
-    "leetcodenotes.md",
-    "education/cs/system design/Caching.md",
-    "leetcodereview.md",
-    "todolist.md",
+    "readinglist.md",
     "scheduling & uni.md",
     "universityinfo.md",
+    "todolist.md",
+    "education/cs/system design/Caching.md",
+    "leetcodenotes.md",
+    "leetcodereview.md",
     "education/cs/mathematics/probability/Fundamentals of Probability.md",
     "bookview.base",
     "education/cs/mathematics/set theory/Defining Sets and Set Equality.md",
@@ -268,7 +268,6 @@
     "education/cs/dsa/Hash Sets & Maps.md",
     "education/cs/dsa/Time Complexity.md",
     "education/cs/dsa/Data Structure Fundamentals.md",
-    "database/Python Crash Course.md",
     "resources/covers/handsondsapython.png",
     "resources/covers/PPC Cover.png",
     "resources/covers/asynchpythoncover.png",
