@@ -11,13 +11,14 @@
             "id": "00c85a68a9f29a67",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "bookview.base",
-                "viewName": "Books"
+                "file": "readinglist.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "bookview"
+              "icon": "lucide-file",
+              "title": "readinglist"
             }
           }
         ]
@@ -124,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "education/cs/cloud/aws cloud practitioner/Module 2 - Compute In The Cloud.md",
+                "file": "readinglist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,15 +229,17 @@
   },
   "active": "00c85a68a9f29a67",
   "lastOpenFiles": [
-    "readinglist.md",
     "scheduling & uni.md",
-    "universityinfo.md",
     "todolist.md",
+    "resources/pdfs/mathforml.pdf",
+    "database/Mathematics for Machine Learning (2019).md",
+    "bookview.base",
+    "readinglist.md",
+    "universityinfo.md",
     "education/cs/system design/Caching.md",
     "leetcodenotes.md",
     "leetcodereview.md",
     "education/cs/mathematics/probability/Fundamentals of Probability.md",
-    "bookview.base",
     "education/cs/mathematics/set theory/Defining Sets and Set Equality.md",
     "resources/misc/Probability Example 1.png",
     "education/cs/mathematics/probability",
@@ -248,8 +250,6 @@
     "education/cs/mathematics/linear algebra/Transformations & Matrices.md",
     "education/cs/mathematics/linear algebra/Matrix Composition.md",
     "education/cs/cloud/aws cloud practitioner/Module 2 - Compute In The Cloud.md",
-    "resources/pdfs/mathforml.pdf",
-    "database/Mathematics for Machine Learning (2019).md",
     "education/cs/mathematics/linear algebra/Linear Transformations.md",
     "education/cs/mathematics/linear algebra/Fundamentals & Vectors.md",
     "education/cs/cloud/aws cloud practitioner/Module 1 - Introduction.md",
@@ -267,7 +267,6 @@
     "resources/misc/Pasted image 20260909083644.png",
     "education/cs/dsa/Hash Sets & Maps.md",
     "education/cs/dsa/Time Complexity.md",
-    "education/cs/dsa/Data Structure Fundamentals.md",
     "resources/covers/handsondsapython.png",
     "resources/covers/PPC Cover.png",
     "resources/covers/asynchpythoncover.png",
