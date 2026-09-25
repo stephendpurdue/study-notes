@@ -21,5 +21,6 @@ read: false
 lastRead: ""
 personalRating: 0
 tags: mediaDB/book
+link: "[[bookview.base]]"
 ---
 2

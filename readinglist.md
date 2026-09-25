@@ -22,13 +22,15 @@
 
 
 
-#### CS5800 Principles of Computation & Programming:
+#### 
 
-- Introduction to Computation and Programming Using Python: With Application to Understanding Data (John V. Guttag, 2016)
-#### Miscellaneous:
+#### Important Reading:
 
 - Operating Systems: Three Easy Pieces
 - Fluent Python
 - Inside The Machine
 - TCP/IP Illustrated: Volume 1
+- Software Architecture
+- Designing Data Intensive Applications
+- Design Patterns
 
