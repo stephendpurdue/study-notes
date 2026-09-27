@@ -44,9 +44,10 @@
   "database": "LiDatabase",
   "bookview.base": "LiBook",
   "dailynotes": "LiNotebook",
-  "leetcodenotes.md": "LiCode",
   "scheduling & uni.md": "LiClock",
-  "leetcodereview.md": "LiCode",
   "todolist.md": "LiListTodo",
-  "readinglist.md": "LiBookOpenText"
+  "readinglist.md": "LiBookOpenText",
+  "leetcode": "LiCode",
+  "leetcode/leetcodenotes.md": "LiCode",
+  "leetcode/leetcodereview.md": "LiCode"
 }

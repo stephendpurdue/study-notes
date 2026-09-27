@@ -4,21 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "8909a6f540ec3611",
+        "id": "95d2f09337bdc6cb",
         "type": "tabs",
         "children": [
           {
-            "id": "00c85a68a9f29a67",
+            "id": "c0147d744b7598f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "education/cs/cloud/aws cloud practitioner/Module 2 - Compute In The Cloud.md",
+                "file": "leetcode/leetcodereview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module 2 - Compute In The Cloud"
+              "title": "leetcodereview"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1063873575bd4fa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "160a22308f7e5c52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Lecture Note Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture Note Template"
             }
           }
         ]
@@ -227,34 +247,41 @@
       "graph:Open graph view": false
     }
   },
-  "active": "00c85a68a9f29a67",
+  "active": "267a896369ad8329",
   "lastOpenFiles": [
+    "leetcode",
+    "education/README.md",
+    "readinglist.md",
+    "education/misc",
+    "education/lectures/CS5860 - Distributed Systems",
+    "education/lectures/CS5980 - Autonomous Systems",
+    "education/lectures/CS5960 - AI Principles",
+    "education/lectures/CS5900 - Ethics in AI",
+    "education/lectures/CS5100 - Data Analysis",
+    "templates/Lecture Note Template.md",
+    "resources/linkedin/Recruiter DM Template.md",
+    "resources/misc/The Cornell Method.md",
+    "resources/misc/Learning Techniques.md",
+    "resources/misc/Notetaking Guide.md",
+    "bookview.base",
+    "resources/pdfs/ITSL.pdf",
+    "database/Introduction to Statistical Learning (2021).md",
+    "todolist.md",
     "education/cs/cloud/aws cloud practitioner/Module 3.md",
     "resources/pdfs/mathforml.pdf",
     "database/Mathematics for Machine Learning (2019).md",
-    "bookview.base",
     "education/cs/mathematics/linear algebra/Fundamentals & Vectors.md",
     "education/cs/cloud/aws cloud practitioner/Module 2 - Compute In The Cloud.md",
-    "education/images/AWS Shared Responsibility Model.png",
+    "education/misc/images/AWS Shared Responsibility Model.png",
     "education/cs/cloud/aws cloud practitioner/Module 1 - Introduction.md",
     "resources/pdfs/Elements of Statistical Learning.pdf",
-    "resources/misc/Notetaking Guide.md",
-    "resources/misc/The Cornell Method.md",
-    "education/images/linear_algebra_1.png",
-    "education/images/Probability Example 1.png",
-    "resources/misc/Learning Techniques.md",
-    "education/README.md",
-    "resources/pdfs/ITSL.pdf",
-    "education/cs/machine learning",
-    "database/Introduction to Statistical Learning (2021).md",
+    "education/misc/images/linear_algebra_1.png",
+    "education/misc/images/Probability Example 1.png",
     "scheduling & uni.md",
-    "todolist.md",
-    "readinglist.md",
-    "resources/pdfs/Artificial Intelligence_ a Modern Approach, Global Edition.pdf",
     "database/Artificial Intelligence, A Modern Approach.md",
     "database/The Elements of Statistical Learning.md",
     "resources/covers/isl.png",
-    "leetcodereview.md",
+    "leetcode/leetcodereview.md",
     "education/cs/mathematics/linear algebra/Transformations & Matrices.md",
     "education/cs/mathematics/linear algebra/Matrix Composition.md",
     "education/cs/mathematics/linear algebra/Linear Transformations.md",
@@ -262,13 +289,7 @@
     "education/cs/python/APIs.md",
     "education/cs/python/Classes.md",
     "education/cs/python/CSV Files.md",
-    "education/cs/python/Exceptions.md",
-    "education/cs/python/Importing.md",
     "resources/covers/aimodernapproach.png",
-    "education/cs/mathematics/probability",
-    "resources/linkedin",
-    "education/cs/system design",
-    "resources/pdfs/pythonobject-orientedprogrammingfifthedition.pdf",
     "resources/covers/handsondsapython.png",
     "resources/covers/PPC Cover.png",
     "resources/covers/asynchpythoncover.png",
