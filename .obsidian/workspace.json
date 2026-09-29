@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "education/cs/cloud/aws cloud practitioner/Module 3 - Computer Services.md",
+                "file": "readinglist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module 3 - Computer Services"
+              "title": "readinglist"
             }
           }
         ]
@@ -229,9 +229,13 @@
   },
   "active": "f0660382188334ac",
   "lastOpenFiles": [
+    "bookview.base",
+    "education/cs/cloud/aws cloud practitioner/Module 8 - AI & ML.md",
+    "education/cs/cloud/aws cloud practitioner/Module 6 - Storage.md",
     "education/cs/cloud/aws cloud practitioner/Module 4 - Global Infrastructure.md",
-    "education/cs/cloud/aws cloud practitioner/Module 5 - Networking.md",
     "education/cs/cloud/aws cloud practitioner/Module 3 - Computer Services.md",
+    "education/cs/cloud/aws cloud practitioner/Module 5 - Networking.md",
+    "resources/linkedin/Recruiter DM Template.md",
     "education/cs/cloud/aws cloud practitioner/Module 2 - Compute In The Cloud.md",
     "education/cs/cloud/aws cloud practitioner/AWS CP Overview.md",
     "education/cs/cloud/aws cloud practitioner/Module 13 - Solutions Architecture.md",
@@ -239,13 +243,10 @@
     "education/cs/cloud/aws cloud practitioner/Module 11 - Pricing & Support.md",
     "education/cs/cloud/aws cloud practitioner/Module 10 - Monitoring & Compliance.md",
     "education/cs/cloud/aws cloud practitioner/Module 9 - Security.md",
-    "education/cs/cloud/aws cloud practitioner/Module 8 - AI & ML.md",
     "education/cs/cloud/aws cloud practitioner/Module 7 - Databases.md",
     "education/cs/cloud/aws cloud practitioner/Module 1 - Introduction.md",
-    "education/cs/cloud/aws cloud practitioner/Module 6 - Storage.md",
     "resources/pdfs/ITSL.pdf",
     "database/Introduction to Statistical Learning (2021).md",
-    "bookview.base",
     "templates/Lecture Note Template.md",
     "resources/pdfs/mathforml.pdf",
     "education/cs/mathematics/set theory/Defining Sets and Set Equality.md",
@@ -261,10 +262,8 @@
     "education/lectures/CS5960 - AI Principles",
     "education/lectures/CS5900 - Ethics in AI",
     "education/lectures/CS5100 - Data Analysis",
-    "resources/linkedin/Recruiter DM Template.md",
     "resources/misc/The Cornell Method.md",
     "resources/misc/Learning Techniques.md",
-    "resources/misc/Notetaking Guide.md",
     "education/misc/images/AWS Shared Responsibility Model.png",
     "education/misc/images/linear_algebra_1.png",
     "education/misc/images/Probability Example 1.png",
