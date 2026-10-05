@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSchool",
+      "LiPaperclip",
       "LiBookOpenText",
       "LiListTodo",
-      "LiUniversity",
-      "LiCode",
-      "LiClock"
+      "LiUniversity"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,10 +44,11 @@
   "database": "LiDatabase",
   "bookview.base": "LiBook",
   "dailynotes": "LiNotebook",
-  "scheduling & uni.md": "LiClock",
   "todolist.md": "LiListTodo",
   "readinglist.md": "LiBookOpenText",
   "leetcode": "LiCode",
   "leetcode/leetcodenotes.md": "LiCode",
-  "leetcode/leetcodereview.md": "LiCode"
+  "leetcode/leetcodereview.md": "LiCode",
+  "interviews": "LiPaperclip",
+  "learningtechniques.md": "LiSchool"
 }

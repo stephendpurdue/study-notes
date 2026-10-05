@@ -9,6 +9,8 @@ Teach it: Feynman technique -> Blog Posts, LinkedIn updates etc.
 Build Real Projects: Build projects that get progressively bigger.
 
 
+Past Papers before Exams
+
 
 ![[Learning Map.png]]
 

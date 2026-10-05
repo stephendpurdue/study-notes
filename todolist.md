@@ -1,4 +1,11 @@
-- Finish Chapter 1 & 2 of AI Principles book.
-- Second question of lab 1
+
+#### Priority
+- Finish Chapter 2 of AI Principles book.
+- Finish Chapter 1 of ITSL
+
+
+
+
+
+#### Non-Priority
 - Codecrafters UNIX shell project.
-- Consent & AI Moodle quizes

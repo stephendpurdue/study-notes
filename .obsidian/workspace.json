@@ -11,31 +11,42 @@
             "id": "f0660382188334ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "education/lectures/CS5100 - Data Analysis/Pearson Correlation Coefficient.md",
-                "mode": "source",
-                "source": false
+                "file": "resources/pdfs/Artificial Intelligence_ a Modern Approach, Global Edition.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Pearson Correlation Coefficient"
+              "icon": "lucide-file-text",
+              "title": "Artificial Intelligence_ a Modern Approach, Global Edition"
             }
           },
           {
             "id": "a65d4682247fc57d",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "resources/pdfs/ITSL.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ITSL"
+            }
+          },
+          {
+            "id": "f43b442152275c71",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "todolist.md",
+                "file": "learningtechniques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "todolist"
+              "title": "learningtechniques"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -241,20 +252,24 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f0660382188334ac",
+  "active": "267a896369ad8329",
   "lastOpenFiles": [
-    "Pasted image 20261005081732.png",
-    "Untitled.canvas",
-    "education/lectures/CS5100 - Data Analysis/Pearson Correlation Coefficient.md",
-    "resources/pdfs/Artificial Intelligence_ a Modern Approach, Global Edition.pdf",
-    "todolist.md",
-    "database/Artificial Intelligence, A Modern Approach.md",
-    "bookview.base",
-    "templates/Lecture Note Template.md",
-    "scheduling & uni.md",
     "readinglist.md",
+    "todolist.md",
+    "scheduling & uni.md",
+    "resources/pdfs/ITSL.pdf",
+    "database/Introduction to Statistical Learning (2021).md",
+    "bookview.base",
+    "interviews/cheatsheets",
+    "interviews",
+    "resources/pdfs/Artificial Intelligence_ a Modern Approach, Global Edition.pdf",
+    "database/Artificial Intelligence, A Modern Approach.md",
     "education/lectures/CS5960 - AI Principles/labs/Lab 1 - Handout.pdf",
     "education/lectures/CS5960 - AI Principles/Summative Outline.pdf",
+    "education/lectures/CS5100 - Data Analysis/Pearson Correlation Coefficient.md",
+    "Untitled.canvas",
+    "education/misc/images/Pasted image 20261005081732.png",
+    "templates/Lecture Note Template.md",
     "education/lectures/CS5960 - AI Principles/Untitled.canvas",
     "education/lectures/CS5960 - AI Principles/labs",
     "education/cs/cloud/aws cloud practitioner/Module 8 - AI & ML.md",
@@ -272,15 +287,11 @@
     "education/cs/cloud/aws cloud practitioner/Module 9 - Security.md",
     "education/cs/cloud/aws cloud practitioner/Module 7 - Databases.md",
     "education/cs/cloud/aws cloud practitioner/Module 1 - Introduction.md",
-    "resources/pdfs/ITSL.pdf",
-    "database/Introduction to Statistical Learning (2021).md",
     "resources/pdfs/mathforml.pdf",
     "education/cs/mathematics/set theory/Defining Sets and Set Equality.md",
     "education/cs/mathematics/set theory/Functions.md",
     "database/Mathematics for Machine Learning (2019).md",
     "leetcode",
-    "education/misc",
-    "education/lectures/CS5860 - Distributed Systems",
     "education/misc/images/AWS Shared Responsibility Model.png",
     "education/misc/images/linear_algebra_1.png",
     "education/misc/images/Probability Example 1.png",
@@ -290,7 +301,6 @@
     "resources/covers/PPC Cover.png",
     "resources/covers/asynchpythoncover.png",
     "resources/covers/cleanarchitecturewithpythoncover.png",
-    "resources/covers/generativeaifoundationscover.png",
     "Untitled 1.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
