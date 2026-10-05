@@ -1,0 +1,4 @@
+- Finish Chapter 1 & 2 of AI Principles book.
+- Second question of lab 1
+- Codecrafters UNIX shell project.
+- Consent & AI Moodle quizes

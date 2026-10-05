@@ -27,7 +27,7 @@
 
 - Designing Data Intensive Applications (O'Reilly, 2017)
 
-- The art of multiprocessor programming (Morgan Kaufmann, 2012)
+- The Art of Multiprocessor Programming (Morgan Kaufmann, 2012)
 
 
 #### Important Reading:
@@ -37,6 +37,5 @@
 - Inside The Machine
 - TCP/IP Illustrated: Volume 1
 - Software Architecture
-
 - Design Patterns
 
