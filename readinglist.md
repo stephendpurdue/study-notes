@@ -10,18 +10,11 @@
 
 
 
-
 #### CS5960 Artificial Intelligence Principles (Semester 1):
 
 - Artificial Intelligence: A Modern Approach (Stuart J. Russel, 2021) - WIP
 
 - Artificial Intelligence: Foundations of Computational Agents (Poole; Mackworth, 2021)
-
-
-#### CS5980 Autonomous Intelligent Systems (Semester 2):
-
-
-
 
 #### CS5860 Advanced Distributed Systems and Communication Networks (Semester 1)
 
