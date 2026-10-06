@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Finish lecture slides - CS5960 - week 1 
-=======
 
 #### Priority
 - Finish Chapter 2 of AI Principles book.
@@ -12,4 +9,5 @@ Finish lecture slides - CS5960 - week 1
 
 #### Non-Priority
 - Codecrafters UNIX shell project.
->>>>>>> origin/main
+- A• Pathfinding Algorithm
+
