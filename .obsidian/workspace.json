@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "education/cs/cloud/aws cloud practitioner/Module 2 - Compute In The Cloud.md",
+                "file": "todolist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,8 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,7 +251,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f43b442152275c71",
+  "active": "02854794d6efff12",
   "lastOpenFiles": [
     "readinglist.md",
     "todolist.md",
