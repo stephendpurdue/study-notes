@@ -1,7 +1,7 @@
 
 #### CS5100 Data Analysis (Semester 1):
 
-- Introduction to Statistical Learning (Gareth James, 2021)
+- Introduction to Statistical Learning (Gareth James, 2021) - WIP
 
 - Elements of Statistical Learning: Data Mining, Inference, and Prediction. Hastie, T., Tibshirani, R. and Friedman, J. (2009)
 
@@ -10,33 +10,26 @@
 
 
 
-
 #### CS5960 Artificial Intelligence Principles (Semester 1):
 
-- Artificial Intelligence: A Modern Approach (Stuart J. Russel, 2021)
+- Artificial Intelligence: A Modern Approach (Stuart J. Russel, 2021) - WIP
 
 - Artificial Intelligence: Foundations of Computational Agents (Poole; Mackworth, 2021)
-
-
-#### CS5980 Autonomous Intelligent Systems (Semester 2):
-
-
-
 
 #### CS5860 Advanced Distributed Systems and Communication Networks (Semester 1)
 
 - Designing Data Intensive Applications (O'Reilly, 2017)
 
-- The art of multiprocessor programming (Morgan Kaufmann, 2012)
+- The Art of Multiprocessor Programming (Morgan Kaufmann, 2012)
 
 
 #### Important Reading:
 
 - Operating Systems: Three Easy Pieces
-- Fluent Python
+- Fluent Python - WIP
 - Inside The Machine
 - TCP/IP Illustrated: Volume 1
 - Software Architecture
-
 - Design Patterns
+- The C Programming Language
 
