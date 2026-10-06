@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNotebook",
       "LiSchool",
       "LiPaperclip",
       "LiBookOpenText",
-      "LiListTodo",
-      "LiUniversity"
+      "LiListTodo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -50,5 +50,6 @@
   "leetcode/leetcodenotes.md": "LiCode",
   "leetcode/leetcodereview.md": "LiCode",
   "interviews": "LiPaperclip",
-  "learningtechniques.md": "LiSchool"
+  "learningtechniques.md": "LiSchool",
+  "notes.md": "LiNotebook"
 }

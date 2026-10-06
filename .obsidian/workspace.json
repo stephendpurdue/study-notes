@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readinglist.md",
+                "file": "todolist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readinglist"
+              "title": "todolist"
             }
           }
         ],
@@ -252,12 +252,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "267a896369ad8329",
+  "active": "f43b442152275c71",
   "lastOpenFiles": [
     "readinglist.md",
+    "todolist.md",
+    "notes.md",
     "learningtechniques.md",
     "bookview.base",
-    "todolist.md",
     "importantnote.md",
     "scheduling & uni.md",
     "resources/pdfs/ITSL.pdf",
