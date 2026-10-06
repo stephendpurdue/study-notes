@@ -1,0 +1,1 @@
+Intelligence is situation dependant
