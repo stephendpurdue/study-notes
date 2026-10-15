@@ -11,12 +11,14 @@
             "id": "f0660382188334ac",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "split-diff-view",
               "state": {
-                "file": "resources/pdfs/Artificial Intelligence_ a Modern Approach, Global Edition.pdf"
+                "aFile": "readinglist.md",
+                "bFile": "readinglist.md",
+                "aRef": ""
               },
-              "icon": "lucide-file-text",
-              "title": "Artificial Intelligence_ a Modern Approach, Global Edition"
+              "icon": "diff",
+              "title": "Diff: readinglist  (Working Tree)"
             }
           }
         ]
@@ -184,13 +186,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bookview.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of bookview"
+              "title": "Outline"
             }
           },
           {
@@ -208,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,17 +229,20 @@
   },
   "active": "267a896369ad8329",
   "lastOpenFiles": [
-    "database/Artificial Intelligence, A Modern Approach.md",
-    "bookview.base",
-    "resources/pdfs/ITSL.pdf",
-    "database/Introduction to Statistical Learning (2021).md",
-    "resources/pdfs/Artificial Intelligence_ a Modern Approach, Global Edition.pdf",
-    "education/lectures/CS5960 - AI Principles/labs/Lab 2 - Handout.pdf",
-    "database/Mathematics for Machine Learning (2019).md",
+    "home",
+    "reclone",
+    "reclone",
     "readinglist.md",
     "todolist.md",
     "notes.md",
+    "bookview.base",
     "learningtechniques.md",
+    "resources/pdfs/Artificial Intelligence_ a Modern Approach, Global Edition.pdf",
+    "database/Artificial Intelligence, A Modern Approach.md",
+    "resources/pdfs/ITSL.pdf",
+    "database/Introduction to Statistical Learning (2021).md",
+    "education/lectures/CS5960 - AI Principles/labs/Lab 2 - Handout.pdf",
+    "database/Mathematics for Machine Learning (2019).md",
     "importantnote.md",
     "scheduling & uni.md",
     "interviews/cheatsheets",
@@ -249,7 +254,6 @@
     "education/misc/images/Pasted image 20261005081732.png",
     "templates/Lecture Note Template.md",
     "education/lectures/CS5960 - AI Principles/Untitled.canvas",
-    "education/lectures/CS5960 - AI Principles/labs",
     "education/cs/cloud/aws cloud practitioner/Module 8 - AI & ML.md",
     "education/cs/cloud/aws cloud practitioner/Module 6 - Storage.md",
     "education/cs/cloud/aws cloud practitioner/Module 4 - Global Infrastructure.md",
@@ -264,7 +268,6 @@
     "education/cs/cloud/aws cloud practitioner/Module 10 - Monitoring & Compliance.md",
     "education/cs/cloud/aws cloud practitioner/Module 9 - Security.md",
     "education/cs/cloud/aws cloud practitioner/Module 7 - Databases.md",
-    "resources/pdfs/mathforml.pdf",
     "education/misc/images/AWS Shared Responsibility Model.png",
     "education/misc/images/linear_algebra_1.png",
     "education/misc/images/Probability Example 1.png",
