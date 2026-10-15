@@ -11,32 +11,17 @@
             "id": "f0660382188334ac",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "readinglist.md",
-                "bFile": "readinglist.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: readinglist  (Working Tree)"
-            }
-          },
-          {
-            "id": "dca6c3323643bb19",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "education/cs/ddia/Three Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Three Concepts"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "education/cs/ddia/Three Concepts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -243,17 +228,20 @@
       "graph:Open graph view": false
     }
   },
-  "active": "267a896369ad8329",
+  "active": "f0660382188334ac",
   "lastOpenFiles": [
-    "todolist.md",
-    "conflict-files-obsidian-git.md",
     "university notes.md",
+    "education/cs/ddia/Three Concepts.md",
+    "education/cs/ddia",
+    "education/cs/system design/Untitled.md",
+    "notes.md",
+    "conflict-files-obsidian-git.md",
+    "todolist.md",
     "resources/misc/Screenshot 2026-10-14 at 08.58.05.png",
     "home",
     "reclone",
     "reclone",
     "readinglist.md",
-    "notes.md",
     "bookview.base",
     "learningtechniques.md",
     "resources/pdfs/Artificial Intelligence_ a Modern Approach, Global Edition.pdf",
@@ -266,7 +254,6 @@
     "scheduling & uni.md",
     "interviews/cheatsheets",
     "interviews",
-    "education/lectures/CS5960 - AI Principles/labs/Lab 1 - Handout.pdf",
     "education/lectures/CS5100 - Data Analysis/Pearson Correlation Coefficient.md",
     "Untitled.canvas",
     "education/misc/images/Pasted image 20261005081732.png",
@@ -283,8 +270,6 @@
     "education/cs/cloud/aws cloud practitioner/Module 13 - Solutions Architecture.md",
     "education/cs/cloud/aws cloud practitioner/Module 12 - Migration.md",
     "education/cs/cloud/aws cloud practitioner/Module 11 - Pricing & Support.md",
-    "education/cs/cloud/aws cloud practitioner/Module 10 - Monitoring & Compliance.md",
-    "education/cs/cloud/aws cloud practitioner/Module 9 - Security.md",
     "education/misc/images/AWS Shared Responsibility Model.png",
     "education/misc/images/linear_algebra_1.png",
     "education/misc/images/Probability Example 1.png",
