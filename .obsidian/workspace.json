@@ -203,12 +203,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,7 +225,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f0660382188334ac",
+  "active": "267a896369ad8329",
   "lastOpenFiles": [
     "database/Artificial Intelligence, A Modern Approach.md",
     "bookview.base",
